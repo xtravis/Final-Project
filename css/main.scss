@@ -1,0 +1,107 @@
+* {
+    margin: auto;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    text-align: center;
+  }
+  
+  #searchy {
+    height: 90px;
+    width: 300px;
+    font-size: 40px;
+    margin-bottom: 50px;
+    border-bottom: 3px solid rgb(28, 28, 29);
+    background-color: rgba(196, 240, 252, 0.281);
+  }
+
+  
+  #butty {
+    height: 95px;
+    width: 200px;
+    font-size: 30px;
+    padding-top: 10px;
+    background-color: pink;
+    border: 3px solid black;
+  }
+
+  #butty:hover {
+      background-color: rgba(0, 255, 234, 0.623);
+  }
+  
+  h1 {
+    color: rgb(40, 165, 40);
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive, Georgia, serif';
+  }
+  
+  .detailments {
+    width: 512px;
+  }
+  
+  #high {
+    font-size: 50px;
+    position: absolute;
+    color: black;
+    background-color: pink;
+    border-radius: 15px;
+  }
+  
+  #hival {
+    font-size: 50px;
+    border: 2px solid pink;
+    background-color: pink;
+    position: absolute;
+    margin-left: 483px;
+  }
+  
+  #low {
+    font-size: 50px;
+    border: 2px solid pink;
+    background-color: pink;
+    position: absolute;
+    margin-top: 100px;
+  }
+  
+  #loval {
+    font-size: 50px;
+    border: 2px solid pink;
+    background-color: pink;
+    position: absolute;
+    margin-left: 483px;
+    margin-top: 100px;
+  }
+  
+  #humidity {
+    font-size: 50px;
+    border: 2px solid pink;
+    background-color: pink;
+    position: absolute;
+    margin-top: 200px;
+  }
+  
+  #humval {
+    font-size: 50px;
+    border: 2px solid pink;
+    background-color: pink;
+    position: absolute;
+    margin-left: 483px;
+    margin-top: 200px;
+  }
+  
+  #wind {
+    font-size: 50px;
+    border: 2px solid pink;
+    background-color: pink;
+    position: absolute;
+    margin-top: 300px;
+  }
+  
+  #windval {
+    font-size: 50px;
+    border: 2px solid pink;
+    background-color: pink;
+    position: absolute;
+    margin-left: 461px;
+    margin-top: 300px;
+  }
+  
